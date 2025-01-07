@@ -1,4 +1,4 @@
-# Homebrew RubyDoc
+ # Homebrew RubyDoc
 
 [Homebrew RubyDoc](https://rubydoc.brew.sh) is an online Ruby documentation browser for [Homebrew/brew](https://github.com/Homebrew/brew).
 
